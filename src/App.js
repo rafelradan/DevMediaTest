@@ -13,10 +13,10 @@ function App() {
 
         <div className="menus">
           <h3>
-            <a href="#">CADASTRAR NOTICIAS</a>
+            <a href="index">CADASTRAR NOTICIAS</a>
           </h3>
           <h3>
-            <a href="#">EXIBIR NOTICIAS</a>
+            <a href="index">EXIBIR NOTICIAS</a>
           </h3>
           <input className="search" />
 
